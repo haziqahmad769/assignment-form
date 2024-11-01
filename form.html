@@ -57,19 +57,19 @@
             <div>
                 <label class="label" for="availability">Availability</label>
 
-                <div class="input" style="display: flex; flex-direction: row; justify-content: flex-start; align-items: center; gap: 20px;">
+                <div class="input" style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 2rem; height: 100%;">
                     <div>
-                        <input type="radio" id="online" name="availability" value="online">
+                        <input style="margin-right: 0.5rem;" type="radio" id="online" name="availability" value="online">
                         <label for="online">Online</label>
                     </div>
                     <div>
-                        <input type="radio" id="in-store" name="availability" value="in-store">
+                        <input style="margin-right: 0.5rem;" type="radio" id="in-store" name="availability" value="in-store">
                         <label for="in-store">In Store</label>
                     </div>
                     <div>
-                        <input type="radio" id="online&in-store" name="availability" value="online&in-store">
+                        <input style="margin-right: 0.5rem;" type="radio" id="online&in-store" name="availability" value="online&in-store">
                         <label for="online&in-store">Online & In Store</label>
-                    </div>                   
+                    </div>               
                 </div>
             </div>
             <!-- Pages -->
@@ -96,7 +96,7 @@
             <!-- Email -->
             <div>
                 <label class="label" for="email">Email</label>
-                <input class="input" type="text" id="email" name="email" required placeholder="Your email. E.g. l.yeon@email.com">
+                <input class="input" type="email" id="email" name="email" required placeholder="Your email. E.g. l.yeon@email.com">
             </div>
             <!-- Confirmation -->
             <div>
