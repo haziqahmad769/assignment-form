@@ -1,0 +1,17 @@
+Your book title here. E.g. Harry Potter and The Fantastic Bootcamp
+
+Your book genre here. E.g. Fantasy
+
+Your book author here. E.g. J. K. Rowling
+
+Publisher of the book. E.g. Pustaka Melang
+
+1994
+
+514
+
+Language used in the book. E.g. English
+
+Your name. E.g. Lannah Yeon
+
+Your email. E.g. l.yeon@email.com
